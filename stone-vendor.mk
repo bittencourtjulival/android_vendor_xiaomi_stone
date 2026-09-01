@@ -292,7 +292,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/stone/proprietary/vendor/etc/sensors/config/strait_qrd_lsm6dst_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/strait_qrd_lsm6dst_0.json \
     vendor/xiaomi/stone/proprietary/vendor/etc/sensors/config/strait_qrd_tmd2725.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/strait_qrd_tmd2725.json \
     vendor/xiaomi/stone/proprietary/vendor/etc/sensors/config/strait_tmd2725.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/strait_tmd2725.json \
-    vendor/xiaomi/stone/proprietary/vendor/etc/sensors/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf \
     vendor/xiaomi/stone/proprietary/vendor/etc/sensors/sns_reg_config:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/sns_reg_config \
     vendor/xiaomi/stone/proprietary/vendor/etc/snapdragon_color_libs_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/snapdragon_color_libs_config.xml \
     vendor/xiaomi/stone/proprietary/vendor/etc/ssg/ta_config.json:$(TARGET_COPY_OUT_VENDOR)/etc/ssg/ta_config.json \
